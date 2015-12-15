@@ -3,5 +3,5 @@ This is a Swift package manager module map for libxml2. It assumes that you inst
 
 To use add this to your `Package.swift` file dependencies: 
 ```swift
-.Package(url: "https://github.com/timburgess/Clibxml2.git", majorVersion: 1)
+.Package(url: "https://github.com/timburgess/Clibxml2.git", majorVersion: 2)
 ```
