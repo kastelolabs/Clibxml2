@@ -1,7 +1,7 @@
-# CHDF5
-This is a Swift package manager module map for HDF5. It assumes that you installed HDF5 with a prefix of `/usr/local`, which is the default for homebrew (`brew install hdf5`).
+# Clibxml2
+This is a Swift package manager module map for libxml2. It assumes that you installed libxml2 with Homebrew
 
 To use add this to your `Package.swift` file dependencies: 
 ```swift
-.Package(url: "https://github.com/aleph7/CHDF5.git", majorVersion: 1)
+.Package(url: "https://github.com/timburgess/Clibxml2.git", majorVersion: 1)
 ```
